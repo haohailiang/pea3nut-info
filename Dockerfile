@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER pea3nut "626954412@qq.com"
+MAINTAINER pea3nut "646263409@qq.com"
 
 COPY ./dist/ /usr/share/nginx/html/
 RUN rm /etc/nginx/conf.d/*
